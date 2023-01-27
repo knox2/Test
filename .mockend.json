@@ -1,0 +1,103 @@
+{
+  "Employees": [
+    {
+      "id": "YuiTG6",
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "department": "Operations",
+      "phone_number": "0711879604",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg"
+    },
+    {
+      "id": "5tgyhU",
+      "email": "tobias.funke@reqres.in",
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "department": "Human Resourse",
+      "phone_number": "0711342345",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg"
+    },
+    {
+      "id": "yu7ueW",
+      "email": "byron.fields@reqres.in",
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "department": "Administration",
+      "phone_number": "0724345678",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg"
+    },
+    {
+      "id": "uigtS6",
+      "email": "george.edwards@reqres.in",
+      "first_name": "George",
+      "last_name": "Edwards",
+      "department": "Purchase",
+      "phone_number": "0722998877",
+      "avatar": "https://reqres.in/img/faces/11-image.jpg"
+    },
+    {
+      "id": "rtyEd6",
+      "email": "rachel.howell@reqres.in",
+      "first_name": "Rachel",
+      "last_name": "Howell",
+      "department": "IT",
+      "phone_number": "0792345678",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg"
+    },
+    {
+      "id": "45Dfgy",
+      "email": "tim.radier@reqres.in",
+      "first_name": "Timothy",
+      "last_name": "Radier",
+      "department": "Sales and Marketing",
+      "phone_number": "0722567890",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg"
+    },
+    {
+      "id": "Edfty5",
+      "email": "lucy.muhoro@reqres.in",
+      "first_name": "Lucy",
+      "last_name": "Muhoro",
+      "department": "Finance",
+      "phone_number": "0728456789",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg"
+    },
+    {
+      "id": "tgyEy7",
+      "email": "francie.orwa@reqres.in",
+      "first_name": "Francie",
+      "last_name": "Orwa",
+      "department": "General Management",
+      "phone_number": "0702543789",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg"
+    },
+    {
+      "id": "Drt45y",
+      "email": "edwin.njoroge@reqres.in",
+      "first_name": "Edwin",
+      "last_name": "Njoroge",
+      "department": "Operations",
+      "phone_number": "0721344556",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg"
+    },
+    {
+      "id": "asE4tgy",
+      "email": "shallen.mwende@reqres.in",
+      "first_name": "Shallen",
+      "last_name": "Mwende",
+      "department": "Purchase",
+      "phone_number": "0723234576",
+      "avatar": "https://reqres.in/img/faces/11-image.jpg"
+    },
+    {
+      "id": "fryuf4",
+      "email": "alex.maranga@reqres.in",
+      "first_name": "Alex",
+      "last_name": "Maranga",
+      "department": "General Management",
+      "phone_number": "0726575654",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg"
+    }
+  ]
+}
